@@ -1,0 +1,33 @@
+/*------------------------HEADER-------------------*/
+
+.ofertas {
+    background-color: #222222;
+    color: white;
+}
+
+.menu {
+    background-color: #F0A83E;
+    color: white;
+}
+
+.portada h3 {
+    text-align: center;
+    color: #3C2313;
+    ;
+}
+
+
+footer {
+    background-color: #222222;
+}
+
+.derechos{
+    text-align: center;
+    color: white;
+}
+
+.sociales {
+    color: white;
+    background-color: #3C2313;
+}
+
